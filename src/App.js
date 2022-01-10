@@ -63,7 +63,7 @@ class App extends Component {
       modalAlert.classList.add('alert', 'alert-danger');
     } else {
       this.createRadioButton();
-    }   
+    }
   }
 
   getUrlData = async () => {
