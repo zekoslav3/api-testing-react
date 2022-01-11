@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zekoslav3/api-testing-react/static/css/main.1e4f1d86.css",
+    "main.js": "/zekoslav3/api-testing-react/static/js/main.72fc6329.js",
+    "static/js/787.945cf265.chunk.js": "/zekoslav3/api-testing-react/static/js/787.945cf265.chunk.js",
+    "index.html": "/zekoslav3/api-testing-react/index.html",
+    "main.1e4f1d86.css.map": "/zekoslav3/api-testing-react/static/css/main.1e4f1d86.css.map",
+    "main.72fc6329.js.map": "/zekoslav3/api-testing-react/static/js/main.72fc6329.js.map",
+    "787.945cf265.chunk.js.map": "/zekoslav3/api-testing-react/static/js/787.945cf265.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e4f1d86.css",
+    "static/js/main.72fc6329.js"
+  ]
+}
