@@ -124,7 +124,6 @@ class App extends Component {
           onInputTitleChange={this.onInputTitleChange} 
           onInputUrlChange={this.onInputUrlChange} 
           onButtonSubmit={this.onButtonSubmit} 
-          validateForm={this.state.validateForm}
         />
         <p>Select API data to display.</p>
         <ApiButtons 
